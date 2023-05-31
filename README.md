@@ -4,7 +4,7 @@
 
 -[X]  Introduction to Data Visualization with Matplotlib
 
-
+[ ]Introduction to Data Visualization with Seaborn
 
 
 
