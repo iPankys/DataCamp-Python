@@ -3,11 +3,13 @@
 ## Curso
 
 
--[  ] Introduction to Data Visualization with Matplotlib
+-[X] Introduction to Data Visualization with Matplotlib
 
 -[X] Introduction to Data Visualization with Seaborn
 
--[ ] Exploratory Data Analysis in Python
+-[X] Exploratory Data Analysis in Python
+
+-[ ]Sampling in Python
 
 ## Projeto
 
